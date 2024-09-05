@@ -7,6 +7,7 @@ Dr. Mike Daugherity, Abilene Christian University
 
 ## Numerical Errors
 * [How Numbers are Stored](errors/Week_2_How_Numbers_are_Stored.ipynb) - Unavoidable errors in computing, and the central conflict for the semester
+* [Numerical Errors PPT Slides](errors/topic0.pdf)
 
 ## Systems of Linear Equations
 * [Linear Algebra Review](linear/Week_2_Linear_Systems.ipynb) - Linear Algebra for solving systems of linear equations
