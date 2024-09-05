@@ -3,9 +3,13 @@
 Dr. Mike Daugherity, Abilene Christian University
 
 ## Introduction and Review
+* [First Python Examples](intro/Week_1_First_Class_Examples.ipynb) - Examples from the first week of class
+
+## Numerical Errors
+* [How Numbers are Stored](errors/Week_2_How_Numbers_are_Stored.ipynb) - Unavoidable errors in computing, and the central conflict for the semester
 
 ## Systems of Linear Equations
-
+* [Linear Algebra Review](linear/Week_2_Linear_Systems.ipynb) - Linear Algebra for solving systems of linear equations
 
 <!---
 COMMENTS!!!!!
@@ -27,10 +31,10 @@ Another approach is to open the files directly from Colab.
 * [Arrays and Plots](intro/Week_1_Arrays_and_Plots.ipynb) - Numpy and Matplotlib
 * [Homework Report Template](Report_Template.ipynb) - Use this for all homework
 * [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
-* [How Numbers are Stored](intro/Week_2_How_Numbers_are_Stored.ipynb) - Unavoidable errors in computing, and the central conflict for the semester
+
 
 ## Systems of Linear Equations
-* [Linear Algebra Review](linear/Week_2_Linear_Systems.ipynb) - Linear Algebra for solving systems of linear equations
+
 
 ## Root Finding
 * [Root Finding Class](roots/Week_4_Root_Finding.ipynb) - Root finding methods (bisection, Newton, Secant) and root_scalar
