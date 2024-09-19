@@ -10,10 +10,13 @@ Dr. Mike Daugherity, Abilene Christian University
 * [Numerical Errors PPT Slides](errors/topic0.pdf)
 
 ## Systems of Linear Equations
-* [Linear Algebra Review](linear/Week_2_Linear_Systems.ipynb) - Linear Algebra for solving systems of linear equations
+* [Linear Systems](linear/Week_2_Linear_Systems.ipynb) - Linear Algebra for solving systems of linear equations and np.linalg.solve shortcut
+* [Linear Systems PPT Slides](linear/topic1.pdf)
 
 ## Root Finding
 * [Root Finding Class](roots/Week_3_Root_Finding.ipynb) - Root finding methods (bisection, Newton, Secant) and root_scalar
+* [In-class Problem](roots/Week_4_Root_Finding_Problem.ipynb) 
+* [Multi-Dimensional Roots](roots/Week_4_Multi_Roots.ipynb) - Using *root* to solve non-linear systems
 
 <!---
 COMMENTS!!!!!
@@ -41,8 +44,6 @@ Another approach is to open the files directly from Colab.
 
 
 
-* [In-class Problem](roots/Week_4_Root_Finding_Problem.ipynb) | [Solution](roots/Week_4_Root_Finding_Solutions.ipynb)
-* [Multi-Dimensional Roots](roots/Week_5_Multi_Roots.ipynb) - Using *root* to solve non-linear systems
 
 ## Fitting and Interpolation
 * [Fitting Polynomials](fits/Week_5_Fitting_Polynomials.ipynb) - examples of *polyfit* and *polyval*
