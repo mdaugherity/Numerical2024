@@ -17,7 +17,10 @@ Dr. Mike Daugherity, Abilene Christian University
 * [Root Finding Class](roots/Week_3_Root_Finding.ipynb) - Root finding methods (bisection, Newton, Secant) and root_scalar
 * [In-class Problem](roots/Week_4_Root_Finding_Problem.ipynb) 
 * [Multi-Dimensional Roots](roots/Week_4_Multi_Roots.ipynb) - Using *root* to solve non-linear systems
+* [Root Finding PPT Slides](roots/topic2.pdf)
 
+
+  
 <!---
 COMMENTS!!!!!
 
