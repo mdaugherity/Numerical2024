@@ -20,6 +20,14 @@ Dr. Mike Daugherity, Abilene Christian University
 * [Root Finding PPT Slides](roots/topic2.pdf)
 
 
+## Fitting and Interpolation
+* [Fitting Polynomials](fits/Week_5_Fitting_Polynomials.ipynb) - examples of *polyfit* and *polyval*
+* [Fit Practice](fits/Fit_Practice.ipynb) 
+* [Fitting Polynomials](fits/Week_6_Advanced_Fitting.ipynb) - examples of *polyfit* and *polyval*
+* [Linear Algebra Fits](fits/Week_6_Linear_Algebra_Fits.ipynb) - how *polyfit* works and a methods comparison
+* [Interpolation](fits/Week_6_Interpolation.ipynb) - using *interp1d*
+
+
   
 <!---
 COMMENTS!!!!!
@@ -48,7 +56,6 @@ Another approach is to open the files directly from Colab.
 
 
 
-## Fitting and Interpolation
 * [Fitting Polynomials](fits/Week_5_Fitting_Polynomials.ipynb) - examples of *polyfit* and *polyval*
 * [Linear Algebra Fits](fits/Week_6_Linear_Algebra_Fits.ipynb) - how *polyfit* works and a methods comparison
 * [Interpolation](fits/Week_6_Interpolation.ipynb) - using *interp1d*
