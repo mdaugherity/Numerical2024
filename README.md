@@ -19,29 +19,17 @@ Dr. Mike Daugherity, Abilene Christian University
 * [Multi-Dimensional Roots](roots/Week_4_Multi_Roots.ipynb) - Using *root* to solve non-linear systems
 * [Root Finding PPT Slides](roots/topic2.pdf)
 
-
 ## Fitting and Interpolation
-* [Fitting Polynomials](fits/Week_5_Fitting_Polynomials.ipynb) - examples of *polyfit* and *polyval*
+* [Fitting Polynomials](fits/Week_5_Fitting_Polynomials.ipynb) - Examples of *polyfit* and *polyval*
+* [Curve Fits](fits/Week_5_Curve_Fit.ipynb) - Fitting arbitrary functions with *curve_fit*
+* [Linear Algebra Fits](fits/Week_6_Linear_Algebra_Fits.ipynb) - How *polyfit* works and a methods comparison
+* [Fitting Polynomials](fits/Week_6_Advanced_Fitting.ipynb) - Playing with global optimizers like *brute* and *differential_evolution*
 * [Fit Practice](fits/Fit_Practice.ipynb) 
-* [Fitting Polynomials](fits/Week_6_Advanced_Fitting.ipynb) - examples of *polyfit* and *polyval*
-* [Linear Algebra Fits](fits/Week_6_Linear_Algebra_Fits.ipynb) - how *polyfit* works and a methods comparison
-* [Interpolation](fits/Week_6_Interpolation.ipynb) - using *interp1d*
+* [Interpolation](fits/Week_6_Interpolation.ipynb) - using *np.interp* and *CubicSpline*
 
 
-  
 <!---
 COMMENTS!!!!!
-
-# PHYS 351: Applied Numerical Methods
-## Fall 2022
-Dr. Mike Daugherity, Abilene Christian University
-
-This repository is for code and data files.  All other course information is posted on Canvas.
-
-### Important Note 
-Github's notebook renderer is trash.  Pages will often not display correctly. 
-**One workaround is to view the pages on [nbviewer](https://nbviewer.jupyter.org/github/mdaugherity/Numerical2022/tree/main/)**.  
-Another approach is to open the files directly from Colab.
 
 # OUTLINE
 ## Introduction and Review
@@ -49,16 +37,6 @@ Another approach is to open the files directly from Colab.
 * [Arrays and Plots](intro/Week_1_Arrays_and_Plots.ipynb) - Numpy and Matplotlib
 * [Homework Report Template](Report_Template.ipynb) - Use this for all homework
 * [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
-
-
-## Systems of Linear Equations
-
-
-
-
-* [Fitting Polynomials](fits/Week_5_Fitting_Polynomials.ipynb) - examples of *polyfit* and *polyval*
-* [Linear Algebra Fits](fits/Week_6_Linear_Algebra_Fits.ipynb) - how *polyfit* works and a methods comparison
-* [Interpolation](fits/Week_6_Interpolation.ipynb) - using *interp1d*
 
 ## Derivatives
 * [First Derivative Intro](calc/Week_7_Derivative_Intro.ipynb) - example of forwards, backwards, and centered differences
