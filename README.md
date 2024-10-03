@@ -26,7 +26,7 @@ Dr. Mike Daugherity, Abilene Christian University
 * [Fitting Polynomials](fits/Week_6_Advanced_Fitting.ipynb) - Playing with global optimizers like *brute* and *differential_evolution*
 * [Fit Practice](fits/Fit_Practice.ipynb) 
 * [Interpolation](fits/Week_6_Interpolation.ipynb) - using *np.interp* and *CubicSpline*
-
+* [Fits and Ints PPT Slides](fits/topic3.pdf)
 
 <!---
 COMMENTS!!!!!
