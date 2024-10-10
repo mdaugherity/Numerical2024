@@ -31,6 +31,7 @@ Dr. Mike Daugherity, Abilene Christian University
 
 ## Derivatives
 * [Derivatives](calc/Week_7_Derivatives.ipynb) - Forward vs Centeral Difference, using *gradient* and splines
+* [Derivative PPT Slides](calc/topic4-1.pdf)
 
 ## Integrals
 
