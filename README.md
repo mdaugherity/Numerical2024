@@ -28,6 +28,13 @@ Dr. Mike Daugherity, Abilene Christian University
 * [Interpolation](fits/Week_6_Interpolation.ipynb) - using *np.interp* and *CubicSpline*
 * [Fits and Ints PPT Slides](fits/topic3.pdf)
 
+
+## Derivatives
+* [Derivatives](calc/Week_7_Derivatives.ipynb) - Forward vs Centeral Difference, using *gradient* and splines
+
+## Integrals
+
+
 <!---
 COMMENTS!!!!!
 
@@ -38,11 +45,8 @@ COMMENTS!!!!!
 * [Homework Report Template](Report_Template.ipynb) - Use this for all homework
 * [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
 
-## Derivatives
-* [First Derivative Intro](calc/Week_7_Derivative_Intro.ipynb) - example of forwards, backwards, and centered differences
-* [Derivative Examples](calc/Week_7_Derivatives.ipynb) - using *gradient*, *derivative*, and splines for data points and functions
 
-## Integrals
+
 
 ## Differential Equations
 * [Euler's Method](ode/Week_9_Euler.ipynb) - simple method for IVP
