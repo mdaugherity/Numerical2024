@@ -2,6 +2,19 @@
 ## Fall 2024
 Dr. Mike Daugherity, Abilene Christian University
 
+<!---
+COMMENTS!!!!!
+
+# OUTLINE
+## Introduction and Review
+* [Colab Cheet Sheat](intro/Week_1_Intro_to_Colab.ipynb) - A quick intro to python in Google Colab
+* [Arrays and Plots](intro/Week_1_Arrays_and_Plots.ipynb) - Numpy and Matplotlib
+* [Homework Report Template](Report_Template.ipynb) - Use this for all homework
+* [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
+END OF COMMENT
+--->
+
+
 ## Introduction and Review
 * [First Python Examples](intro/Week_1_First_Class_Examples.ipynb) - Examples from the first week of class
 
@@ -34,28 +47,15 @@ Dr. Mike Daugherity, Abilene Christian University
 * [Derivative PPT Slides](calc/topic4-1.pdf)
 
 ## Integrals
-* [Integration Examples](calc/Week_8_Integration_Examples.ipynb) - Demos of trapz, simpson, and romberg integration
-
-<!---
-COMMENTS!!!!!
-
-# OUTLINE
-## Introduction and Review
-* [Colab Cheet Sheat](intro/Week_1_Intro_to_Colab.ipynb) - A quick intro to python in Google Colab
-* [Arrays and Plots](intro/Week_1_Arrays_and_Plots.ipynb) - Numpy and Matplotlib
-* [Homework Report Template](Report_Template.ipynb) - Use this for all homework
-* [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
-
-
-
+* [Integration Examples](calc/Week_8_Integration_Examples.ipynb) - Demos of trapz, simpson, and romberg integration of fixed data points
+* [Gaussian Quadrature](calc/Week_8_Quad.ipynb) - Using *quad* as the ultimate tool of integrating functions with Adaptive Gaussian Quadrature 
+* [Integration PPT Slides](calc/topic4-2.pdf)
 
 ## Differential Equations
 * [Euler's Method](ode/Week_9_Euler.ipynb) - simple method for IVP
-* [Solve IVP](ode/Week_10_solveivp.ipynb) - examples using *scipy.integrate.solve_ivp* including t_eval, events, and stiff problems
+* [Solve IVP](ode/Week_9_solveivp.ipynb) - examples using *scipy.integrate.solve_ivp* including t_eval, events, and stiff problems
 * [IVP Fits](ode/Week_10_IVP_Fits.ipynb) - using data points to fit parameters in *solve_ivp*
 * [BVP Shooting Methods](ode/Week_11_BVP.ipynb) - using the shooting method to solve BVP with trial-and-error
 * [Solve BVP](ode/Week_11_solvebvp_demo.ipynb) - showing how to use *scipy.integrate.solve_bvp*
 
-END OF COMMENT
---->
 
