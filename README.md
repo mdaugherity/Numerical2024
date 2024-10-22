@@ -34,7 +34,7 @@ Dr. Mike Daugherity, Abilene Christian University
 * [Derivative PPT Slides](calc/topic4-1.pdf)
 
 ## Integrals
-
+* [Integration Examples](calc/Week_8_Integration_Examples.ipynb) - Demos of trapz, simpson, and romberg integration
 
 <!---
 COMMENTS!!!!!
