@@ -57,5 +57,7 @@ END OF COMMENT
 * [IVP Fits](ode/Week_10_IVP_Fits.ipynb) - using data points to fit parameters in *solve_ivp*
 * [BVP Shooting Methods](ode/Week_10_BVP.ipynb) - using the shooting method to solve BVP with trial-and-error
 * [Solve BVP](ode/Week_11_solvebvp_demo.ipynb) - showing how to use *scipy.integrate.solve_bvp*
+* [ODE IVP PPT Slides](ode/topic5-1.pdf)
+* [PDE BVP PPT Slides](ode/topic5-2.pdf)
 
 
