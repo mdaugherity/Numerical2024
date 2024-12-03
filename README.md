@@ -60,4 +60,5 @@ END OF COMMENT
 * [ODE IVP PPT Slides](ode/topic5-1.pdf)
 * [PDE BVP PPT Slides](ode/topic5-2.pdf)
 
-
+## Bonus Topics
+* [Chaos](bonus/Chaos.ipynb) - logistic maps of CHAOS
