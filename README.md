@@ -62,3 +62,4 @@ END OF COMMENT
 
 ## Bonus Topics
 * [Chaos](bonus/Chaos.ipynb) - logistic maps of CHAOS
+* [Chaos PPT Slides](bonus/chaos.pdf) - logistic maps of CHAOS
